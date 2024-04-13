@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://toan.mobi/</loc>
+  <lastmod>2024-04-13T14:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toan.mobi/2024/</loc>
+  <lastmod>2024-04-13T14:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toan.mobi/archive.html</loc>
+  <lastmod>2024-04-13T14:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toan.mobi/categories/</loc>
+  <lastmod>2024-04-13T14:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toan.mobi/galleries/</loc>
+  <lastmod>2024-04-13T14:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toan.mobi/listings/</loc>
+  <lastmod>2024-04-13T14:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toan.mobi/posts/i-need-a-fast-simple-lightweight-free-blogroll-to-share-my-ideas-notes-writing-memos-etc-and-its-here/</loc>
+  <lastmod>2024-04-13T14:20:00Z</lastmod>
+ </url>
+</urlset>
